@@ -1,1 +1,3 @@
-# scheme_-interpreter
+# scheme_interpreter
+
+Интерпретатор функционального языка программирования scheme.
